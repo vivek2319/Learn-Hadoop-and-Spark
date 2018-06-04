@@ -1,7 +1,7 @@
 # LearnHadoop
 Happy Learning! 
 
-## Do you wish to learn Hadoop for FREE? Then this repository is for YOU. 
+## Do you wish to learn Hadoop for FREE? Then, this repository is for YOU. 
 
 
 The Apache™ Hadoop® project develops open-source software for reliable, scalable, distributed computing.
