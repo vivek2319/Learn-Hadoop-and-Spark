@@ -1,5 +1,4 @@
-# LearnHadoop
-Happy Learning! 
+# Learn Hadoop! 
 
 ## Do you wish to learn Hadoop for FREE? Then, this repository is for YOU. 
 
